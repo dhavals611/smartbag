@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "897031014714",
+    "firebase_url": "https://raspberrypi-3c59e.firebaseio.com",
+    "project_id": "raspberrypi-3c59e",
+    "storage_bucket": "raspberrypi-3c59e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897031014714:android:88affc6b512891b0",
+        "android_client_info": {
+          "package_name": "dupd.com.smartbag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897031014714-qgq46nteqtvejlci7dhaqe9irsic6ogm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dupd",
+            "certificate_hash": "ff4bb62845b1909d16bdabc7d6cbe0d86a5359b3"
+          }
+        },
+        {
+          "client_id": "897031014714-5ftcd5q59ga66ikf2ql3kl4vfvr0npe2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyhYQlZ7mNPJGZvALuxzUzVgqm6xLmUaE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897031014714-5ftcd5q59ga66ikf2ql3kl4vfvr0npe2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
